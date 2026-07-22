@@ -14,7 +14,7 @@
 ```ascii
 ╔══════════════════════════════════════════════════════╗
 ║  jkristen@homelab:~$ whoami                          ║
-║  → Josué · 29 · Argentina                           ║
+║  → Josué · 34 · Argentina                           ║
 ║  → Apasionado por la infraestructura IT             ║
 ║                                                      ║
 ║  jkristen@homelab:~$ ¿Qué hago?                      ║
