@@ -40,9 +40,9 @@
 
 ## 👤 Sobre Mí
 
-**Soy Josué** — no me digas José. Tengo 29 años, vivo en Argentina y soy técnico en infraestructura IT.
+**Soy Josué** — no me digas José. Tengo 34 años, vivo en Argentina y soy técnico en infraestructura IT.
 
-> Llevo **6+ años** metido en el mundo de la tecnología. Arranqué como soporte técnico y hoy arquitecto infraestructura completa para múltiples organizaciones — desde la red hasta el monitoreo, pasando por virtualización, backups, y documentación.
+> Llevo **8+ años** en el rubro. Arranqué como soporte técnico y hoy arquitecto infraestructura completa — desde la red hasta el monitoreo, pasando por virtualización, backups, y documentación.
 
 🛠️ **Mi filosofía de trabajo:**
 - 🔒 **Estabilidad primero** — los sistemas críticos no se tocan sin backup
