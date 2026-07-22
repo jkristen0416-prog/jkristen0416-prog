@@ -3,20 +3,35 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/jkristen0416-prog"><img src="https://img.shields.io/badge/GitHub-jkristen0416--prog-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:jkristen@redintech.com.ar"><img src="https://img.shields.io/badge/Email-jkristen@redintech.com.ar-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/jkristen0416-prog"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:jkristen@redintech.com.ar"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Ubicación-Argentina-FFB71B?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=jkristen0416-prog&label=Visitas&color=FF6B6B&style=for-the-badge"/>
 </p>
 
 ---
 
+```ascii
+┌──────────────────────────────────────────────────┐
+│  jkristen@homelab:~$ whoami                       │
+│  → Sysadmin · Infraestructura · Automatización    │
+│                                                    │
+│  jkristen@homelab:~$ uptime                        │
+│  → Operativo 24/7 · Pi 5 Cluster · Proxmox        │
+│                                                    │
+│  jkristen@homelab:~$ uname -a                      │
+│  → Linux · Docker · MikroTik · Tailscale · Grafana │
+└──────────────────────────────────────────────────┘
+```
+
 ## 👨‍💻 Sobre mí
 
-> **Sysadmin** con alma de homelabber. Arquitecto de infraestructura, automatizador de procesos, y gestor de redes.
+> Sysadmin con alma de homelabber. Arquitecto de infraestructura, automatizador de procesos, documentación técnica.
 
-🔧 Mantengo infraestructura crítica para **múltiples clientes** — desde despliegues Docker hasta clusters Proxmox.
+🔧 Diseño, despliego y mantengo infraestructura crítica — desde clusters de virtualización hasta redes corporativas.
 
-📡 Apasionado por la **documentación técnica**, la **estabilidad** de los sistemas, y la **visualización** de infraestructura.
+📡 Apasionado por la **estabilidad**, la **documentación**, y la **visualización** de sistemas. Mi lema: *backups antes de cambios, no rompas lo que funciona*.
 
 ---
 
@@ -39,12 +54,14 @@
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white)
 
 ### 🐳 Contenedores & Orquestación
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![LXC](https://img.shields.io/badge/LXC-333333?style=for-the-badge&logo=linuxcontainers&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📊 Monitoreo & Documentación
 
@@ -69,6 +86,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
 
@@ -85,52 +104,28 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jkristen0416-prog&theme=redical&hide_border=true&area=true" width="95%"/>
 </div>
 
----
-
-## 🏗️ Infraestructura
-
 <div align="center">
-
-| Componente | Rol | Estado |
-|:-----------|:----|:------:|
-| **Proxmox Cluster** | Virtualización (3 nodos Pi 5) | ✅ Activo |
-| **NAS OMV** | Almacenamiento centralizado + backups | ✅ Activo |
-| **Pi-hole** | DNS sinkhole + DHCP | ✅ Activo |
-| **Tailscale** | Mesh VPN | ✅ Activo |
-| **MikroTik** | Routing + Firewall | ✅ Activo |
-| **NetBox** | CMDB / Documentación | ✅ Activo |
-| **GLPI** | Service Desk / ITIL | ✅ Activo |
-| **Grafana + InfluxDB** | Monitoreo + Time Series | ✅ Activo |
-
+  <img src="https://github-profile-trophy.vercel.app/?username=jkristen0416-prog&theme=radical&no-bg=true&no-frame=true&row=1&column=6" width="95%"/>
 </div>
 
 ---
 
-## 🤝 Clientes
+## 🎬 Documentación Visual
 
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Burgwagen-FF6600?style=for-the-badge&logo=autoscout24&logoColor=white"/><br/>
-      <sub>Infraestructura automotriz</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Cityssan-0056A0?style=for-the-badge&logo=city&logoColor=white"/><br/>
-      <sub>Servicios urbanos</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/TiendaCars-00A859?style=for-the-badge&logo=cardealership&logoColor=white"/><br/>
-      <sub>Plataforma automotriz</sub>
-    </td>
-  </tr>
-</table>
+> Creo **GIFs técnicos** para documentar infraestructura, procesos y arquitectura de forma visual.
+
+<p align="center">
+  <a href="https://github.com/jkristen0416-prog/gifs-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jkristen0416-prog&repo=gifs-repo&theme=radical&hide_border=true"/>
+  </a>
+</p>
 
 ---
 
 <div align="center">
   <img src="https://img.shields.io/badge/💻%20Homelab-Pi%205%20Cluster-FF6B6B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/⚡%20Estado-Operativo%20✅-00C853?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🛡️%20Backup-Automático%20(NAS)-2196F3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📡%20Estado-Operativo%20✅-00C853?style=for-the-badge"/>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
