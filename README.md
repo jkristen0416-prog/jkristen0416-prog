@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,12,24&height=220&section=header&text=Josué%20Kristen&fontSize=70&fontAlignY=32&desc=sysadmin%20•%20homelabber%20•%20automatización&descAlignY=52&descSize=18&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,12,24&height=220&section=header&text=Josué%20Kristen&fontSize=70&fontAlignY=32&desc=%20Windows%20Server%20•%20VMware%20•%20Infraestructura%20IT&descAlignY=52&descSize=18&animation=twinkling" width="100%"/>
 </div>
 
 <p align="center">
   <a href="mailto:jkristen0416@gmail.com">
     <img src="https://img.shields.io/badge/jkristen0416@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=Contacto"/>
   </a>
-  <img src="https://img.shields.io/badge/Argentina-FFB71B?style=for-the-badge&logo=googlemaps&logoColor=white&label=Ubicación"/>
+  <img src="https://img.shields.io/badge/Buenos%20Aires-FFB71B?style=for-the-badge&logo=googlemaps&logoColor=white&label=Ubicación"/>
   <br/>
   <a href="https://linkedin.com/in/dirbys-kristen-novoa">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=Dirbys%20Kristen%20Novoa"/>
@@ -24,14 +24,14 @@
 ```ascii
 ╔══════════════════════════════════════════════════════╗
 ║  jkristen@homelab:~$ whoami                          ║
-║  → Josué · 34 · Argentina                           ║
-║  → Apasionado por la infraestructura IT             ║
+║  → Josué · 34 · Bs. As., Argentina                  ║
+║  → Especialista en infraestructura Windows/VMware    ║
 ║                                                      ║
-║  jkristen@homelab:~$ ¿Qué hago?                      ║
-║  → Diseño redes · Automatizo procesos                ║
-║  → Documento todo · No rompo lo que funciona         ║
+║  jkristen@homelab:~$ experiencia                      ║
+║  → 13+ años en TI · 8+ en infraestructura crítica    ║
+║  → 22K+ servidores administrados a nivel global      ║
 ║                                                      ║
-║  jkristen@homelab:~$ Lema                            ║
+║  jkristen@homelab:~$ lema                             ║
 ║  → "Backups antes de cambios, estabilidad ante todo" ║
 ╚══════════════════════════════════════════════════════╝
 ```
@@ -40,9 +40,11 @@
 
 ## 👤 Sobre Mí
 
-**Soy Josué** — no me digas José. Tengo 34 años, vivo en Argentina y soy técnico en infraestructura IT.
+**Soy Josué** (Dirbys Kristen) — no me digas José. Tengo 34 años, vivo en Buenos Aires, Argentina.
 
-> Llevo **8+ años** en el rubro. Arranqué como soporte técnico y hoy arquitecto infraestructura completa — desde la red hasta el monitoreo, pasando por virtualización, backups, y documentación.
+> Especialista en TI con **13+ años** de experiencia en el rubro. Arranqué en soporte técnico, pasé por coordinación de mesas de ayuda, y hoy administro infraestructura crítica a gran escala — servidores físicos y virtuales, Active Directory, VMware, monitoreo, backups y automatización.
+
+Mi carrera ha sido una progresión constante: desde armar racks y cableado estructurado, hasta liderar la administración de **más de 22.000 servidores** a nivel global en entornos enterprise.
 
 🛠️ **Mi filosofía de trabajo:**
 - 🔒 **Estabilidad primero** — los sistemas críticos no se tocan sin backup
@@ -52,21 +54,22 @@
 
 ---
 
-## 🎯 Enfoque Actual
+## 📈 Trayectoria
 
 ```ascii
-  ┌─────────────────────────────────────────────────────────┐
-  │  🔴 2026 · Proyectos y áreas de enfoque                 │
-  ├─────────────────────────────────────────────────────────┤
-  │                                                          │
-  │  📡  Monitoreo centralizado (Grafana + InfluxDB)        │
-  │  🏗️  Cluster Proxmox sobre Raspberry Pi 5               │
-  │  🎬  Documentación visual con GIFs técnicos             │
-  │  🧠  Automatización con agentes de IA (Hermes)          │
-  │  🔐  Seguridad perimetral y hardening de servicios      │
-  │  📚  Organización del segundo cerebro (Obsidian vault)  │
-  │                                                          │
-  └─────────────────────────────────────────────────────────┘
+  ┌──────────────────────────────────────────────────────────────┐
+  │  📅 2013 - 2016  │  Especialista en Soporte Técnico          │
+  │                  │  Racks, cableado, soporte remoto, cámaras │
+  ├──────────────────┼───────────────────────────────────────────┤
+  │  📅 2016 - 2019  │  Coordinador de Mesa de Ayuda             │
+  │                  │  Lideré equipos, resolví N1/N2/N3, WSUS   │
+  ├──────────────────┼───────────────────────────────────────────┤
+  │  📅 2020 - 2022  │  Soporte N3 · Data Center                 │
+  │                  │  2500+ estaciones, VMware, Zabbix, Veeam  │
+  ├──────────────────┼───────────────────────────────────────────┤
+  │  📅 2022 - 2025  │  Lead Systems Administrator               │
+  │                  │  22K+ servidores globales, P1/P2/P3, AD   │
+  └──────────────────┴───────────────────────────────────────────┘
 ```
 
 ---
@@ -77,15 +80,33 @@
 
 | Categoría | Tecnologías |
 |:----------|:------------|
-| 🖥️ **Virtualización** | ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) ![LXC](https://img.shields.io/badge/LXC-333333?style=flat-square&logo=linuxcontainers&logoColor=white) |
+| 🖥️ **Virtualización** | ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white) ![vSphere](https://img.shields.io/badge/vSphere-607078?style=flat-square&logo=vmware&logoColor=white) ![Nutanix](https://img.shields.io/badge/Nutanix-024DA1?style=flat-square&logo=nutanix&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) |
+| 🪟 **Windows** | ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active%20Directory-326CE5?style=flat-square&logo=activedirectory&logoColor=white) |
 | 🐧 **Sistemas** | ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Alpine](https://img.shields.io/badge/Alpine-0D597F?style=flat-square&logo=alpinelinux&logoColor=white) |
-| 🌐 **Redes** | ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white) ![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=flat-square&logo=pi-hole&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white) ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white) ![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=flat-square&logo=openwrt&logoColor=white) |
-| 🐳 **Contenedores** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white) |
-| 📊 **Monitoreo** | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white) ![Uptime Kuma](https://img.shields.io/badge/Uptime%20Kuma-5CDD8B?style=flat-square&logo=uptimekuma&logoColor=white) |
+| ☁️ **Cloud** | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
+| 🌐 **Redes** | ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white) ![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=flat-square&logo=pi-hole&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white) ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white) |
+| 🐳 **Contenedores** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![LXC](https://img.shields.io/badge/LXC-333333?style=flat-square&logo=linuxcontainers&logoColor=white) |
+| 📊 **Monitoreo** | ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white) |
+| 💾 **Backup** | ![Veeam](https://img.shields.io/badge/Veeam-00B336?style=flat-square&logo=veeam&logoColor=white) |
 | 📋 **Documentación** | ![NetBox](https://img.shields.io/badge/NetBox-0D3881?style=flat-square&logo=netbox&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white) ![GLPI](https://img.shields.io/badge/GLPI-0B5E8A?style=flat-square&logo=glpi&logoColor=white) |
-| 🔒 **Seguridad** | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Fail2ban](https://img.shields.io/badge/Fail2ban-333333?style=flat-square&logo=fail2ban&logoColor=white) ![CrowdSec](https://img.shields.io/badge/CrowdSec-2D2D2D?style=flat-square&logo=crowdsec&logoColor=white) |
-| 💻 **Lenguajes** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| 🔧 **Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
+| 💻 **Lenguajes** | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| 🔧 **Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![iLO](https://img.shields.io/badge/iLO-0096D6?style=flat-square&logo=hp&logoColor=white) ![iDRAC](https://img.shields.io/badge/iDRAC-0096D6?style=flat-square&logo=dell&logoColor=white) |
+
+</div>
+
+---
+
+## 📜 Certificaciones
+
+<div align="center">
+
+| Certificación | Año |
+|:-------------|:---:|
+| 🏅 **VMware VCP-DCV vSphere 7** — Virtualización, SDDC & ESXi Hosts | 2024 |
+| 🏅 **VMware vSphere 7** — vCenter, Domains, Identity Sources, Access & Backup | 2024 |
+| 🏅 **Windows Server 2022** — Active Directory Basics | 2024 |
+| 🏅 **Monitoring in DevOps** — IT Resources | 2024 |
+| ☁️ **AWS Cloud Practitioner** | 2023 |
 
 </div>
 
@@ -150,7 +171,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/💻%20Homelab-Operativo%20✅-00C853?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🛡️%20Backup-Automático%20(NAS)-2196F3?style=for-the-badge&logo=openmediavault&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🛡%EF%B8%8F%20Backup-Autom%C3%A1tico%20(NAS)-2196F3?style=for-the-badge&logo=openmediavault&logoColor=white"/>
   <img src="https://img.shields.io/badge/🧠%20Documentado-En%20Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white"/>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,12,24&height=130&section=footer&animation=twinkling" width="100%"/>
