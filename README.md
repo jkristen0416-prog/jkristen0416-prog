@@ -94,16 +94,12 @@
 ## 📊 Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jkristen0416-prog&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkristen0416-prog&layout=compact&theme=radical&hide_border=true&langs_count=6" height="170em"/>
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=jkristen0416-prog&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170em"/>
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=jkristen0416-prog&layout=compact&theme=radical&hide_border=true&langs_count=6" height="170em"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jkristen0416-prog&theme=redical&hide_border=true&area=true&custom_title=Actividad%20Reciente" width="95%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jkristen0416-prog&theme=radical&no-bg=true&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="90%"/>
 </div>
 
 ---
@@ -114,7 +110,7 @@
 
 <p align="center">
   <a href="https://github.com/jkristen0416-prog/gifs-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jkristen0416-prog&repo=gifs-repo&theme=radical&hide_border=true&show_owner=true"/>
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=jkristen0416-prog&repo=gifs-repo&theme=radical&hide_border=true&show_owner=true"/>
   </a>
 </p>
 
