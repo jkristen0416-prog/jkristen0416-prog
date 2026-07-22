@@ -8,6 +8,16 @@
   </a>
   <img src="https://img.shields.io/badge/Argentina-FFB71B?style=for-the-badge&logo=googlemaps&logoColor=white&label=Ubicación"/>
   <br/>
+  <a href="https://linkedin.com/in/dirbys-kristen-novoa">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=Dirbys%20Kristen%20Novoa"/>
+  </a>
+  <a href="https://x.com/Jkristen_Ve">
+    <img src="https://img.shields.io/badge/@Jkristen_Ve-000000?style=for-the-badge&logo=x&logoColor=white&label=X"/>
+  </a>
+  <a href="https://instagram.com/mootiva_jk">
+    <img src="https://img.shields.io/badge/@mootiva_jk-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Instagram"/>
+  </a>
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=jkristen0416-prog&label=🌍+Visitas+al+perfil&color=FF6B6B&style=flat-square"/>
 </p>
 
