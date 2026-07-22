@@ -3,8 +3,8 @@
 </div>
 
 <p align="center">
-  <a href="mailto:jkristen@redintech.com.ar">
-    <img src="https://img.shields.io/badge/jkristen@redintech.com.ar-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=Contacto"/>
+  <a href="mailto:jkristen0416@gmail.com">
+    <img src="https://img.shields.io/badge/jkristen0416@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=Contacto"/>
   </a>
   <img src="https://img.shields.io/badge/Argentina-FFB71B?style=for-the-badge&logo=googlemaps&logoColor=white&label=Ubicación"/>
   <br/>
