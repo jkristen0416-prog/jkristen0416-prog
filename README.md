@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,12,24&height=220&section=header&text=Josué%20Kristen&fontSize=70&fontAlignY=32&desc=%20Windows%20Server%20%E2%80%A2%20VMware%20%E2%80%A2%20Infraestructura%20IT&descAlignY=52&descSize=18&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,12,24&height=260&section=header&text=Josue%20Kristen&fontSize=75&fontAlignY=30&desc=%F0%9F%96%A5%EF%B8%8F%20Windows%20Server%20%E2%80%A2%20%F0%9F%96%A5%EF%B8%8F%20VMware%20%E2%80%A2%20%F0%9F%94%A7%20Infraestructura%20IT&descAlignY=52&descSize=19&animation=twinkling" width="100%"/>
 </div>
 
 <p align="center">
   <a href="mailto:jkristen0416@gmail.com">
     <img src="https://img.shields.io/badge/jkristen0416@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=Contacto"/>
   </a>
-  <img src="https://img.shields.io/badge/Buenos%20Aires-FFB71B?style=for-the-badge&logo=googlemaps&logoColor=white&label=Ubicación"/>
+  <img src="https://img.shields.io/badge/Buenos%20Aires-FFB71B?style=for-the-badge&logo=googlemaps&logoColor=white&label=Ubicaci%C3%B3n"/>
   <br/>
   <a href="https://linkedin.com/in/dirbys-kristen-novoa">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=Dirbys%20Kristen%20Novoa"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=Dirbys%20Kristen"/>
   </a>
   <a href="https://x.com/Jkristen_Ve">
-    <img src="https://img.shields.io/badge/@Jkristen_Ve-000000?style=for-the-badge&logo=x&logoColor=white&label=X"/>
+    <img src="https://img.shields.io/badge/%40Jkristen_Ve-000000?style=for-the-badge&logo=x&logoColor=white&label=X"/>
   </a>
   <a href="https://instagram.com/mootiva_jk">
-    <img src="https://img.shields.io/badge/@mootiva_jk-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Instagram"/>
+    <img src="https://img.shields.io/badge/%40mootiva_jk-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Instagram"/>
   </a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=jkristen0416-prog&label=%F0%9F%8C%8D+Visitas+al+perfil&color=FF6B6B&style=flat-square"/>
@@ -24,14 +24,14 @@
 ```ascii
 ╔══════════════════════════════════════════════════════╗
 ║  jkristen@homelab:~$ whoami                          ║
-║  → Josué · 34 · Bs. As., Argentina                  ║
+║  → Josue Kristen · 34 · Bs. As., Argentina          ║
 ║  → Especialista en infraestructura Windows/VMware    ║
 ║                                                      ║
 ║  jkristen@homelab:~$ experiencia                      ║
 ║  → 13+ años en TI · 8+ en infraestructura crítica    ║
 ║  → 22K+ servidores administrados a nivel global      ║
 ║                                                      ║
-║  jkristen@homelab:~$ lema                             ║
+║  jkristen@homelab:~$ .lifemotto                       ║
 ║  → "Backups antes de cambios, estabilidad ante todo" ║
 ╚══════════════════════════════════════════════════════╝
 ```
@@ -40,21 +40,35 @@
 
 ## 👤 Sobre Mí
 
-**Soy Josué** (Dirbys Kristen) — no me digas José. Tengo 34 años, vivo en Buenos Aires, Argentina.
+<p align="center">
+  <b>Josue Kristen</b> · 34 · Buenos Aires, Argentina
+</p>
 
-> Especialista en TI con **13+ años** de experiencia en el rubro. Arranqué en soporte técnico, pasé por coordinación de mesas de ayuda, y hoy administro infraestructura crítica a gran escala — servidores físicos y virtuales, Active Directory, VMware, monitoreo, backups y automatización.
+> Administrador de sistemas con **13+ años** de experiencia. Arranqué en soporte técnico, lideré mesas de ayuda, y hoy administro infraestructura crítica a gran escala — servidores físicos y virtuales, Active Directory, VMware, monitoreo, backups y automatización.
 
-Mi carrera ha sido una progresión constante: desde armar racks y cableado estructurado, hasta liderar la administración de **más de 22.000 servidores** a nivel global en entornos enterprise.
-
-🛠️ **Mi filosofía de trabajo:**
-- 🔒 **Estabilidad primero** — los sistemas críticos no se tocan sin backup
-- 📝 **Documentación todo** — si no está documentado, no existe
-- 🎯 **Causa raíz** — no tapes síntomas, arreglá el problema de fondo
-- 🤖 **Automatizar** — si lo hacés dos veces, que lo haga un script
+📌 **Mi filosofía:**
+<table align="center">
+  <tr>
+    <td align="center">🔒</td>
+    <td><b>Estabilidad primero</b> — sin backup no hay cambio</td>
+  </tr>
+  <tr>
+    <td align="center">📝</td>
+    <td><b>Documentación todo</b> — si no está escrito, no existe</td>
+  </tr>
+  <tr>
+    <td align="center">🎯</td>
+    <td><b>Causa raíz</b> — no tapes síntomas, arreglá el problema</td>
+  </tr>
+  <tr>
+    <td align="center">🤖</td>
+    <td><b>Automatizar</b> — segunda vez que lo hacés, que lo haga un script</td>
+  </tr>
+</table>
 
 ---
 
-## 📈 Trayectoria
+## 📈 Trayectoria Profesional
 
 ```ascii
   ┌──────────────────────────────────────────────────────────────┐
@@ -102,10 +116,10 @@ Mi carrera ha sido una progresión constante: desde armar racks y cableado estru
 
 | Certificación | Año |
 |:-------------|:---:|
-| 🏅 **VMware VCP-DCV vSphere 7** — Virtualización, SDDC & ESXi Hosts | 2024 |
-| 🏅 **VMware vSphere 7** — vCenter, Domains, Identity Sources, Access & Backup | 2024 |
-| 🏅 **Windows Server 2022** — Active Directory Basics | 2024 |
-| 🏅 **Monitoring in DevOps** — IT Resources | 2024 |
+| 🏅 **VMware VCP-DCV vSphere 7** | 2024 |
+| 🏅 **VMware vSphere 7 — vCenter & Identity** | 2024 |
+| 🏅 **Windows Server 2022 — AD Basics** | 2024 |
+| 🏅 **Monitoring in DevOps** | 2024 |
 | ☁️ **AWS Cloud Practitioner** | 2023 |
 
 </div>
@@ -140,7 +154,7 @@ Mi carrera ha sido una progresión constante: desde armar racks y cableado estru
 
 <p align="center">
   <a href="https://github.com/jkristen0416-prog/gifs-repo">
-    <img src="https://img.shields.io/badge/%F0%9F%8E%AC%20gifs--repo-Ver%20repositorio-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/%F0%9F%8E%AC%20gifs--repo-Ver%20documentaci%C3%B3n%20visual-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <br/><br/>
   <em>Creo GIFs técnicos para documentar infraestructura, procesos y arquitectura — topologías animadas, flujos de red, despliegues paso a paso.</em>
@@ -180,10 +194,23 @@ Mi carrera ha sido una progresión constante: desde armar racks y cableado estru
 
 ---
 
+## 🌟 Proyectos Destacados
+
+<p align="center">
+  <a href="https://github.com/jkristen0416-prog/gifs-repo">
+    <img src="https://img.shields.io/badge/%F0%9F%93%BA%20gifs--repo-GIFs%20t%C3%A9cnicos%20de%20infraestructura-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jkristen0416-prog/unifly">
+    <img src="https://img.shields.io/badge/%F0%9F%93%84%20unifly-CLI%20para%20UniFi%20Controller-5CD8E5?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%92%BB%20Homelab-Operativo%20%E2%9C%85-00C853?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
   <img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F%20Backup-Autom%C3%A1tico%20(NAS)-2196F3?style=for-the-badge&logo=openmediavault&logoColor=white"/>
   <img src="https://img.shields.io/badge/%F0%9F%A7%A0%20Documentado-En%20Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white"/>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,12,24&height=130&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,12,24&height=140&section=footer&text=Backups%20antes%20de%20cambios%2C%20estabilidad%20ante%20todo&fontSize=22&fontAlignY=75&animation=twinkling" width="100%"/>
 </p>
