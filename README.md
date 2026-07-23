@@ -126,19 +126,18 @@
 
 ---
 
-## 📊 Estadísticas
+## 📊 En Números
 
 <div align="center">
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jkristen0416-prog&theme=radical)](https://github.com/jkristen0416-prog)
+| | | |
+|:---:|:---:|:---:|
+| 🕐 **13+ años** en TI | 🖥️ **22K+** servidores globales | 🏅 **VMware VCP-DCV** |
+| 🛡️ **8+ años** infraestructura crítica | 📦 **6+** tecnologías de virtualización | ☁️ **AWS Cloud Practitioner** |
 
 <br/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jkristen0416-prog&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jkristen0416-prog&theme=radical)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jkristen0416-prog&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jkristen0416-prog&theme=radical&utcOffset=-3)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jkristen0416-prog&theme=radical)](https://github.com/jkristen0416-prog)
 
 ![](https://streak-stats.demolab.com/?user=jkristen0416-prog&theme=radical&hide_border=true&border_radius=5&date_format=j%2Fn%5B%2FY%5D)
 
