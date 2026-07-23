@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,12,24&height=220&section=header&text=Josué%20Kristen&fontSize=70&fontAlignY=32&desc=%20Windows%20Server%20•%20VMware%20•%20Infraestructura%20IT&descAlignY=52&descSize=18&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,12,24&height=220&section=header&text=Josué%20Kristen&fontSize=70&fontAlignY=32&desc=%20Windows%20Server%20%E2%80%A2%20VMware%20%E2%80%A2%20Infraestructura%20IT&descAlignY=52&descSize=18&animation=twinkling" width="100%"/>
 </div>
 
 <p align="center">
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/@mootiva_jk-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Instagram"/>
   </a>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=jkristen0416-prog&label=🌍+Visitas+al+perfil&color=FF6B6B&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=jkristen0416-prog&label=%F0%9F%8C%8D+Visitas+al+perfil&color=FF6B6B&style=flat-square"/>
 </p>
 
 ```ascii
@@ -87,10 +87,10 @@ Mi carrera ha sido una progresión constante: desde armar racks y cableado estru
 | 🌐 **Redes** | ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white) ![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white) ![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=flat-square&logo=pi-hole&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white) ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white) |
 | 🐳 **Contenedores** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![LXC](https://img.shields.io/badge/LXC-333333?style=flat-square&logo=linuxcontainers&logoColor=white) |
 | 📊 **Monitoreo** | ![Uptime Kuma](https://img.shields.io/badge/Uptime%20Kuma-5CD8E5?style=flat-square&logo=uptimekuma&logoColor=white) ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white) |
-| 💾 **Backup** | ![Veeam](https://img.shields.io/badge/Veeam-00B336?style=flat-square&logo=veeam&logoColor=white) ![OpenMediaVault](https://img.shields.io/badge/PC%20Backup-0078D4?style=flat-square&logo=windows&logoColor=white) |
+| 💾 **Backup** | ![Veeam](https://img.shields.io/badge/Veeam-00B336?style=flat-square&logo=veeam&logoColor=white) ![PC Backup](https://img.shields.io/badge/PC%20Backup-0078D4?style=flat-square&logo=windows&logoColor=white) |
 | 📋 **Documentación** | ![NetBox](https://img.shields.io/badge/NetBox-0D3881?style=flat-square&logo=netbox&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white) ![GLPI](https://img.shields.io/badge/GLPI-0B5E8A?style=flat-square&logo=glpi&logoColor=white) |
 | 💻 **Lenguajes** | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
-| 🔧 **Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![iLO](https://img.shields.io/badge/iLO-0096D6?style=flat-square&logo=hp&logoColor=white) ![iDRAC](https://img.shields.io/badge/iDRAC-0096D6?style=flat-square&logo=dell&logoColor=white) |
+| 🔧 **Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) |
 
 </div>
 
@@ -115,24 +115,35 @@ Mi carrera ha sido una progresión constante: desde armar racks y cableado estru
 ## 📊 Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=jkristen0416-prog&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170em"/>
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=jkristen0416-prog&layout=compact&theme=radical&hide_border=true&langs_count=6" height="170em"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jkristen0416-prog&theme=redical&hide_border=true&area=true&custom_title=Actividad%20Reciente" width="95%"/>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jkristen0416-prog&theme=radical)](https://github.com/jkristen0416-prog)
+
+<br/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jkristen0416-prog&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jkristen0416-prog&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jkristen0416-prog&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jkristen0416-prog&theme=radical&utcOffset=-3)
+
+![](https://streak-stats.demolab.com/?user=jkristen0416-prog&theme=radical&hide_border=true&border_radius=5&date_format=j%2Fn%5B%2FY%5D)
+
+<br/>
+
+[![](https://github-readme-activity-graph.vercel.app/graph?username=jkristen0416-prog&theme=redical&hide_border=true&area=true&custom_title=Actividad%20Reciente)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
 
 ## 🎬 Documentación Visual
 
-> Creo **GIFs técnicos** para documentar infraestructura, procesos y arquitectura. Cada GIF cuenta una historia — topologías animadas, flujos de red, despliegues paso a paso.
-
 <p align="center">
   <a href="https://github.com/jkristen0416-prog/gifs-repo">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=jkristen0416-prog&repo=gifs-repo&theme=radical&hide_border=true&show_owner=true"/>
+    <img src="https://img.shields.io/badge/%F0%9F%8E%AC%20gifs--repo-Ver%20repositorio-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <br/><br/>
+  <em>Creo GIFs técnicos para documentar infraestructura, procesos y arquitectura — topologías animadas, flujos de red, despliegues paso a paso.</em>
 </p>
 
 ---
@@ -170,9 +181,9 @@ Mi carrera ha sido una progresión constante: desde armar racks y cableado estru
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💻%20Homelab-Operativo%20✅-00C853?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🛡%EF%B8%8F%20Backup-Autom%C3%A1tico%20(NAS)-2196F3?style=for-the-badge&logo=openmediavault&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🧠%20Documentado-En%20Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%F0%9F%92%BB%20Homelab-Operativo%20%E2%9C%85-00C853?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F%20Backup-Autom%C3%A1tico%20(NAS)-2196F3?style=for-the-badge&logo=openmediavault&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%F0%9F%A7%A0%20Documentado-En%20Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white"/>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,12,24&height=130&section=footer&animation=twinkling" width="100%"/>
 </p>
