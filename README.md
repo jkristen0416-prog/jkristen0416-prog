@@ -6,12 +6,6 @@
   />
 </p>
 
-<h1 align="center">Josue Kristen</h1>
-
-<p align="center">
-  <strong>Infrastructure Architect · Systems Administration · Infrastructure Automation</strong>
-</p>
-
 <p align="center">
   <a href="https://linkedin.com/in/dirbys-kristen-novoa-931866178">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
