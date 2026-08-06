@@ -16,6 +16,12 @@
   <a href="https://jk-security.com">
     <img src="https://img.shields.io/badge/jk--security.com-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Sitio web"/>
   </a>
+  <a href="https://x.com/Jkristen_Ve">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://instagram.com/mootiva_jk">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
   <img src="https://img.shields.io/badge/Buenos%20Aires%2C%20Argentina-FFB71B?style=flat-square&logo=googlemaps&logoColor=white" alt="Ubicación"/>
 </p>
 
