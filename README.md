@@ -57,7 +57,7 @@ monitoreo, backups y automatización mediante PowerShell y Python.
   2022 - 2025  Lead Systems Administrator
                22K+ servidores globales, incidentes P1/P2/P3
   2025 - Actualidad  Infrastructure Architect — Empresa confidencial
-               Diseño y evolución de arquitecturas de infraestructura
+               Diseño, estandarización y evolución de infraestructura empresarial
 ```
 
 ## Tecnologías
