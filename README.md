@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Josue Kristen</h1>
-  <p><strong>Systems Administrator · Infrastructure Automation · IT Operations</strong></p>
+  <p><strong>Infrastructure Architect · Systems Administration · Infrastructure Automation</strong></p>
   <p>
     <a href="https://linkedin.com/in/dirbys-kristen-novoa-931866178">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -12,14 +12,16 @@
   </p>
 </div>
 
-Administrador de sistemas con más de 13 años de experiencia en tecnología y
-más de 8 años trabajando con infraestructura crítica. Mi trayectoria incluye
-soporte técnico, liderazgo de mesas de ayuda, operación de data centers y
-administración de entornos empresariales de gran escala.
+Arquitecto de infraestructura y administrador de sistemas con más de 13 años
+de experiencia en tecnología y más de 8 años trabajando con infraestructura
+crítica.
 
-Actualmente me enfoco en automatización segura y repetible, monitoreo,
-continuidad operativa e inteligencia artificial aplicada a problemas reales
-de infraestructura.
+Actualmente me desempeño en arquitectura de infraestructura, participando en
+el diseño, estandarización y evolución de entornos empresariales, con foco en
+disponibilidad, seguridad, automatización y continuidad operativa.
+
+Mi experiencia incluye Windows Server, Active Directory, VMware, Proxmox,
+monitoreo, backups y automatización mediante PowerShell y Python.
 
 ## Especialización
 
@@ -54,8 +56,8 @@ de infraestructura.
                VMware, monitoreo, backups
   2022 - 2025  Lead Systems Administrator
                22K+ servidores globales, incidentes P1/P2/P3
-  2025 - Actualidad  Infrastructure Automation & Homelab Projects
-               Automatización, homelab, IA aplicada a operaciones
+  2025 - Actualidad  Infrastructure Architect — Empresa confidencial
+               Diseño y evolución de arquitecturas de infraestructura
 ```
 
 ## Tecnologías
@@ -73,7 +75,11 @@ de infraestructura.
 | Cloud | AWS |
 | Documentación | Markdown, Obsidian, diagramas técnicos |
 
-## Proyectos en desarrollo
+## Proyectos personales y laboratorio
+
+Fuera del entorno profesional, desarrollo herramientas de automatización,
+monitoreo y documentación técnica utilizando entornos controlados y datos
+anonimizados.
 
 ### [infra-automation-tools](https://github.com/jkristen0416-prog/infra-automation-tools)
 
