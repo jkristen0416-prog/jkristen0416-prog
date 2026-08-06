@@ -1,16 +1,26 @@
-<div align="center">
-  <h1>Josue Kristen</h1>
-  <p><strong>Infrastructure Architect · Systems Administration · Infrastructure Automation</strong></p>
-  <p>
-    <a href="https://linkedin.com/in/dirbys-kristen-novoa-931866178">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:jkristen0416@gmail.com">
-      <img src="https://img.shields.io/badge/jkristen0416@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <img src="https://img.shields.io/badge/Buenos%20Aires%2C%20Argentina-FFB71B?style=flat-square&logo=googlemaps&logoColor=white" alt="Ubicación"/>
-  </p>
-</div>
+<p align="center">
+  <img
+    src="./assets/jkristen-github-banner.png"
+    alt="Josue Kristen — Infrastructure Architect"
+    width="100%"
+  />
+</p>
+
+<h1 align="center">Josue Kristen</h1>
+
+<p align="center">
+  <strong>Infrastructure Architect · Systems Administration · Infrastructure Automation</strong>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/dirbys-kristen-novoa-931866178">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jkristen0416@gmail.com">
+    <img src="https://img.shields.io/badge/jkristen0416@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://img.shields.io/badge/Buenos%20Aires%2C%20Argentina-FFB71B?style=flat-square&logo=googlemaps&logoColor=white" alt="Ubicación"/>
+</p>
 
 Arquitecto de infraestructura y administrador de sistemas con más de 13 años
 de experiencia en tecnología y más de 8 años trabajando con infraestructura
