@@ -106,18 +106,27 @@ operativos mediante diagramas y animaciones técnicas.
 
 ## Certificaciones y formación
 
+### Certificaciones oficiales
+
 | Certificación | Año | Verificación |
 | --- | --- | --- |
 | VMware VCP-DCV vSphere 7 | 2024 | [Portal oficial de verificación VMware](https://www.vmware.com/learn/certification/verify.html) |
-| VMware vSphere 7: vCenter & Identity | 2024 | [Portal oficial de verificación VMware](https://www.vmware.com/learn/certification/verify.html) |
-| Windows Server 2022: Active Directory Basics | 2024 | [Microsoft Learn](https://learn.microsoft.com/credentials/) |
-| Monitoring in DevOps | 2024 | [Portal oficial de verificación](https://www.credly.com/) |
 | AWS Cloud Practitioner | 2023 | [Verificación oficial de credenciales AWS](https://aws.amazon.com/verification/) |
 
-> Los enlaces apuntan a los **portales oficiales de verificación** de cada
-> proveedor. Los identificadores individuales de credencial (ID de
-> certificación, URL de badge) se comparten por solicitud directa — no se
-> publican aquí para evitar su uso indebido.
+### Formación y cursos
+
+| Curso | Año | Plataforma |
+| --- | --- | --- |
+| VMware vSphere 7: vCenter & Identity | 2024 | [VMware Learning](https://www.vmware.com/learn.html) |
+| Windows Server 2022: Active Directory Basics | 2024 | [Microsoft Learn](https://learn.microsoft.com/credentials/) |
+| Monitoring in DevOps | 2024 | Formación en monitoreo y observabilidad |
+
+> Los enlaces de certificaciones apuntan a los **portales oficiales de
+> verificación** de cada proveedor. Los identificadores individuales de
+> credencial (ID de certificación, URL de badge) se comparten por solicitud
+> directa — no se publican aquí para evitar su uso indebido. Las
+> certificaciones oficiales (VCP-DCV, AWS) están separadas de los cursos de
+> formación para reflejar su distinto alcance.
 
 ## Actualmente explorando
 
