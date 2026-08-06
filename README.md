@@ -13,6 +13,9 @@
   <a href="mailto:jkristen0416@gmail.com">
     <img src="https://img.shields.io/badge/jkristen0416@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://jk-security.com">
+    <img src="https://img.shields.io/badge/jk--security.com-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Sitio web"/>
+  </a>
   <img src="https://img.shields.io/badge/Buenos%20Aires%2C%20Argentina-FFB71B?style=flat-square&logo=googlemaps&logoColor=white" alt="Ubicación"/>
 </p>
 
