@@ -121,12 +121,11 @@ operativos mediante diagramas y animaciones técnicas.
 | Windows Server 2022: Active Directory Basics | 2024 | [Microsoft Learn](https://learn.microsoft.com/credentials/) |
 | Monitoring in DevOps | 2024 | Formación en monitoreo y observabilidad |
 
-> Los enlaces de certificaciones apuntan a los **portales oficiales de
-> verificación** de cada proveedor. Los identificadores individuales de
-> credencial (ID de certificación, URL de badge) se comparten por solicitud
-> directa — no se publican aquí para evitar su uso indebido. Las
-> certificaciones oficiales (VCP-DCV, AWS) están separadas de los cursos de
-> formación para reflejar su distinto alcance.
+> Las **credenciales individuales** (ID de certificación, URL de badge) están
+> disponibles durante el proceso de selección, junto con fecha de emisión y
+> expiración cuando corresponda. Las certificaciones oficiales (VCP-DCV,
+> AWS) están separadas de los cursos de formación para reflejar su distinto
+> alcance.
 
 ## Actualmente explorando
 
