@@ -8,7 +8,7 @@
   </a>
   <img src="https://img.shields.io/badge/Buenos%20Aires-FFB71B?style=for-the-badge&logo=googlemaps&logoColor=white&label=Ubicaci%C3%B3n"/>
   <br/>
-  <a href="https://linkedin.com/in/dirbys-kristen-novoa">
+  <a href="https://linkedin.com/in/dirbys-kristen-novoa-931866178">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=Dirbys%20Kristen"/>
   </a>
   <a href="https://x.com/Jkristen_Ve">
