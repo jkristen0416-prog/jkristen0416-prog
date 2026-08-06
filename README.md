@@ -17,6 +17,9 @@
   <a href="https://instagram.com/mootiva_jk">
     <img src="https://img.shields.io/badge/%40mootiva_jk-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Instagram"/>
   </a>
+  <a href="https://jk-security.com">
+    <img src="https://img.shields.io/badge/jk--security.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&label=Web"/>
+  </a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=jkristen0416-prog&label=%F0%9F%8C%8D+Visitas+al+perfil&color=FF6B6B&style=flat-square"/>
 </p>
@@ -201,6 +204,9 @@
   </a>
   <a href="https://github.com/jkristen0416-prog/unifly">
     <img src="https://img.shields.io/badge/%F0%9F%93%84%20unifly-CLI%20para%20UniFi%20Controller-5CD8E5?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jkristen0416-prog/infra-automation-tools">
+    <img src="https://img.shields.io/badge/%F0%9F%94%A7%20infra--automation--tools-Automatizaci%C3%B3n%20de%20infraestructura-00C853?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
